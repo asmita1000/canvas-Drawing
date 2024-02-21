@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+#canva {
+  border: 2px solid black;
+}
+
+#butterfly{
+  display: none;
+  background: transparent;
+}
